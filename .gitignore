@@ -1,0 +1,7 @@
+*.mat
+*.png
+*.fig
+.DS_Store
+*.asv
+figs/*
+data/*
